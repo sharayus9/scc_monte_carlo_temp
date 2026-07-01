@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# template_project
+# scc_monte_carlo_temp
+Repo for NPC NTP Bootcamp: SCC-Github Tutorial
 
 ## Overview
 
@@ -28,7 +28,3 @@ pip install -e .
 ```bash
 python scripts/run_analysis.py
 ```
-=======
-# scc_monte_carlo_temp
-Repo for NPC NTP Bootcamp: SCC-Github Tutorial
->>>>>>> 459eaa2574b6aedc01caf82bc3171b916cc57391
